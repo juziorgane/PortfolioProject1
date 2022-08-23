@@ -1,3 +1,6 @@
+--For this project, I will be mainly focusing on finding things like 1) total cases and deaths globally,
+--2) total deaths per continent, and 3) percent of the population infected per country, etc.  
+
 --Select * 
 --From Proflioproject..coviddeath
 --Order by 3,4
